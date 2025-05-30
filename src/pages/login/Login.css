@@ -1,0 +1,47 @@
+.fundoLogin {
+    background-image: url("../assets/img/viagem-navio.jpg");
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+body {
+    background-color: #fff8e1; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+h2 {
+    color: #f97316; 
+}
+
+
+input {
+    border-color: #22c55e; 
+    color: #1e293b;
+    background-color: #ffffff;
+}
+
+/* Botão */
+button {
+    background-color: #facc15; 
+    color: #1f2937;
+}
+
+button:hover {
+    background-color: #eab308; 
+}
+
+hr {
+    border-color: #cbd5e1;
+}
+
+p {
+    color: #10b981; 
+}
+
+p a {
+    color: #f97316; 
+}
